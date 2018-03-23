@@ -1,0 +1,7 @@
+{
+  "name": "@catalyst-elements/catalyst-lazy-properties-mixin",
+  "description": "A mixin that allows for lazy properties on an element.",
+  "authors": ["Rebecca Stevens <rebeccastevens@catalyst.net.nz>"],
+  "keywords": ["web-components", "mixin", "lazy", "properties"],
+  "homepage": "https://github.com/catalyst/catalyst-lazy-properties-mixin"
+}

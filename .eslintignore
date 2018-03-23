@@ -1,0 +1,7 @@
+# node_modules are automatically ignored
+
+/docs/
+/dist/
+/tmp/
+/catalyst-lazy-properties-mixin.js
+/catalyst-lazy-properties-mixin.es5.min.js

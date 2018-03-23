@@ -1,0 +1,15 @@
+/tmp/
+/dist/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docs
+/docs/
+/analysis.json
+
+# Symlinks
+/catalyst-lazy-properties-mixin.js
+/catalyst-lazy-properties-mixin.es5.min.js
