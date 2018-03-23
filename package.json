@@ -1,7 +1,7 @@
 {
   "name": "@catalyst-elements/catalyst-lazy-properties-mixin",
   "license": "BSD-3-Clause",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A mixin that allows for lazy properties on an element.",
   "main": "src/mixin.js",
   "repository": {
