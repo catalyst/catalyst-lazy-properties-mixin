@@ -58,5 +58,4 @@ const catalystLazyPropertiesMixin = MixWith => {
   };
 };
 
-export default catalystLazyPropertiesMixin;
 export { catalystLazyPropertiesMixin };
